@@ -1,2 +1,2 @@
 # Linear-algebra
-Basic abstract functions and objects
+Basic abstract functions
