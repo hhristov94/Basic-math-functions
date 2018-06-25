@@ -1,2 +1,3 @@
-# Linear-algebra
-Basic abstract functions
+# Basic
+
+A small collection of mathematical functions written in Python.
